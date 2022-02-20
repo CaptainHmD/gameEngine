@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Episode1/Episode1.iml" filepath="$PROJECT_DIR$/Episode1/Episode1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Episode2/Episode2.iml" filepath="$PROJECT_DIR$/Episode2/Episode2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Episode3/Episode3.iml" filepath="$PROJECT_DIR$/Episode3/Episode3.iml" />
       <module fileurl="file://$PROJECT_DIR$/GameEngine.iml" filepath="$PROJECT_DIR$/GameEngine.iml" />
     </modules>
   </component>
